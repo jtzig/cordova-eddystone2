@@ -1,6 +1,6 @@
 ## Cordova/PhoneGap Eddystone Plugin
 
-This is a Cordova plugin for Eddystone Beacons on Android and iOS. Use this plugin to scan for Eddystone beacons from your mobile application.
+This is a FORK of Cordova plugin for Eddystone Beacons on Android and iOS. Use this plugin to scan for Eddystone beacons from your mobile application.
 
 ![Eddystone Lighthouse Workflow](https://evomedia.evothings.com/2015/07/Eddystone_Lighthouse.jpg)
 
